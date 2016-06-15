@@ -39,7 +39,7 @@ classes = []
 
 
 
-HEADERS = {"X-API-Key":'5a834acbcc93495c99bd3653c09104a0'}
+HEADERS = {"X-API-Key":'INPUT API KEY HERE'}
 
 
 
