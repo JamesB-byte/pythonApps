@@ -1,5 +1,9 @@
 import random
 
+'''
+This program tries to emulate the gun system from Borderlands.
+It randomly generates different weapons and adds stats to them.
+'''
 
 #random variables
 counter = 3
