@@ -1,5 +1,12 @@
 import os, random
 
+
+'''
+I love the Fallout 4 game and wanted to challenge myself. 
+So I decided to try and clone the terminal hacking game. 
+The program is not 100% but it is close. 
+Trying to implement a point system. Still in progress
+'''
 usedWords = []
 words = []
 points = 0
