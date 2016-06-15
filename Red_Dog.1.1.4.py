@@ -1,6 +1,14 @@
 import random, os
 
+'''
 
+Red dog is a card game of chance.
+The game only uses three cards at a time, which are ranked as in poker, with aces high. Suit is irrelevant. A wager is placed, and two cards are placed face up on the table, with three possible outcomes:
+If the cards are consecutive in number (for example, a four and a five, or a jack and a queen), the hand is a push and the player's wager is returned.
+If the two cards are of equal value, a third card is dealt. If the third card is of the same value, then the payout for the player is 11:1, otherwise the hand is a push.
+If neither of the above is the case (for example, a three and an eight), then a spread is announced which determines the payoff (a 4-card spread, in this example), and a third card will be dealt. 
+Before dealing the third card, the player has the option to double his bet. If the third card's value falls between the first two, the player will receive a payoff according to the spread; otherwise the bet is lost.
+...
 
 #global variables
 random_card = 0
