@@ -1,5 +1,11 @@
 import random
 
+'''
+I like to play Diablo 3 and I was upset how the random numbers system for augmenting your armor was.
+It seemed to apply the same stats over and over again. So I made this to try and emulate that system to see for myself
+how random the numbers actully are. 
+'''
+
 guess= 0
 def RNG(number):
     number = random.randrange(1,100)
