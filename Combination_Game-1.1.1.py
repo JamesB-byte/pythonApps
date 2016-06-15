@@ -1,6 +1,10 @@
 import random, os
 
-
+'''
+A simple higher or lower game. 
+The game randomly generates 3 numbers then asked the user to input 3 numbers
+For each number inputed the program will print higher or lower
+'''
 chances = 0
 combo = [0,0,0]
 user_guess = [0,0,0]
