@@ -1,5 +1,10 @@
 import random
 
+'''
+This is combination blackjack RPG game.
+User playes against "monster" if the user cards are higher than the monsters he deals random damage
+Else the monster deals damage.
+'''
 
 #Start Game
 title = 'Welcome to Monster Blackjack'
