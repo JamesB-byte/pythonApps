@@ -3,6 +3,10 @@ from __future__ import print_function
 
 import random, time, sys
 
+'''
+A simple game of craps
+
+'''
 player_bet = 0
 player_money = 2000
 number = 0 
